@@ -1,0 +1,3 @@
+Problem: Farmers waste water or over-water crops for irrigation in a day with rainfall.
+Question: Can we predict whether it will rain tomorrow so farmers are able to schedule or delay irragation and water saved?
+Goal: Predict the level of rainfall for next day, and farmers can make decisions on the irrigation. 
