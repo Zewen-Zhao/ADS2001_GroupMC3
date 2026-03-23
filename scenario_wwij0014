@@ -1,0 +1,14 @@
+ADS2001_GroupMC3
+
+Context:
+"
+The object of this project is to convert this
+data to daily and monthly statistics, compare this data with the climatological data
+available from http://www.bom.gov.au/climate/data/index.shtml?bookmark=200, and to
+model rainfall using data from prior days.
+"
+
+Ideas:
+1. Can be related to contemporary issues such as climate change for instance
+  EX: 'How does the total amount of daily and monthly rainfall for this year compare to the mean and range historically, taking into account any extremities?'
+    So, we can show the distribution. If this is the ninety-th percentile for this date, we can help farmers understand if a rain event will be light or a big downpour relative to history.
